@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Sofia Dance fest 2022",
+      "day": "Apr 2 at 8:00",
+      "reminder": true
+    },
+    {
+      "text": "French class",
+      "day": "Feb 27 at 9:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Ballet class",
+      "day": "Mar 3 at 15:00",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
